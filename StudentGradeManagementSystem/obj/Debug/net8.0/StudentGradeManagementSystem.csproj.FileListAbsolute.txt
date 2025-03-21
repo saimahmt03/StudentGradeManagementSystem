@@ -1,0 +1,14 @@
+C:\Users\smt\Desktop\CIBI\SMT\Projects\Coursera\Project\StudentGradeManagementSystem\StudentGradeManagementSystem\bin\Debug\net8.0\StudentGradeManagementSystem.exe
+C:\Users\smt\Desktop\CIBI\SMT\Projects\Coursera\Project\StudentGradeManagementSystem\StudentGradeManagementSystem\bin\Debug\net8.0\StudentGradeManagementSystem.deps.json
+C:\Users\smt\Desktop\CIBI\SMT\Projects\Coursera\Project\StudentGradeManagementSystem\StudentGradeManagementSystem\bin\Debug\net8.0\StudentGradeManagementSystem.runtimeconfig.json
+C:\Users\smt\Desktop\CIBI\SMT\Projects\Coursera\Project\StudentGradeManagementSystem\StudentGradeManagementSystem\bin\Debug\net8.0\StudentGradeManagementSystem.dll
+C:\Users\smt\Desktop\CIBI\SMT\Projects\Coursera\Project\StudentGradeManagementSystem\StudentGradeManagementSystem\bin\Debug\net8.0\StudentGradeManagementSystem.pdb
+C:\Users\smt\Desktop\CIBI\SMT\Projects\Coursera\Project\StudentGradeManagementSystem\StudentGradeManagementSystem\obj\Debug\net8.0\StudentGradeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smt\Desktop\CIBI\SMT\Projects\Coursera\Project\StudentGradeManagementSystem\StudentGradeManagementSystem\obj\Debug\net8.0\StudentGradeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\smt\Desktop\CIBI\SMT\Projects\Coursera\Project\StudentGradeManagementSystem\StudentGradeManagementSystem\obj\Debug\net8.0\StudentGradeManagementSystem.AssemblyInfo.cs
+C:\Users\smt\Desktop\CIBI\SMT\Projects\Coursera\Project\StudentGradeManagementSystem\StudentGradeManagementSystem\obj\Debug\net8.0\StudentGradeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\smt\Desktop\CIBI\SMT\Projects\Coursera\Project\StudentGradeManagementSystem\StudentGradeManagementSystem\obj\Debug\net8.0\StudentGradeManagementSystem.dll
+C:\Users\smt\Desktop\CIBI\SMT\Projects\Coursera\Project\StudentGradeManagementSystem\StudentGradeManagementSystem\obj\Debug\net8.0\refint\StudentGradeManagementSystem.dll
+C:\Users\smt\Desktop\CIBI\SMT\Projects\Coursera\Project\StudentGradeManagementSystem\StudentGradeManagementSystem\obj\Debug\net8.0\StudentGradeManagementSystem.pdb
+C:\Users\smt\Desktop\CIBI\SMT\Projects\Coursera\Project\StudentGradeManagementSystem\StudentGradeManagementSystem\obj\Debug\net8.0\StudentGradeManagementSystem.genruntimeconfig.cache
+C:\Users\smt\Desktop\CIBI\SMT\Projects\Coursera\Project\StudentGradeManagementSystem\StudentGradeManagementSystem\obj\Debug\net8.0\ref\StudentGradeManagementSystem.dll
